@@ -1,0 +1,27 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "preload-bar",
+    "texture": "28VIE4ZBhNVI6A790csgDr",
+    "rect": [
+      5,
+      6,
+      354,
+      70
+    ],
+    "offset": [
+      0,
+      0.5
+    ],
+    "originalSize": [
+      364,
+      83
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

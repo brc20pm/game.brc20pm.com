@@ -1,0 +1,27 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "land-zero",
+    "texture": "fdRz0h8zND5KyLlewaSmCS",
+    "rect": [
+      5,
+      10,
+      76,
+      75
+    ],
+    "offset": [
+      1.5,
+      -4
+    ],
+    "originalSize": [
+      83,
+      87
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}
