@@ -1,0 +1,69 @@
+{
+    "paths": {},
+    "uuids": [
+        "13XbqXstFGHZKsoE+YurO9",
+        "4chPhWxq9A3q3TNaMJF0un",
+        "57YF4TzLNDXpV6BS8FGFpW",
+        "5ebVXk9a1JE4TlSwSJD+AI",
+        "64UBj/GIFITYaEKrMJoIQ9",
+        "6750s+dm9AW4xxXvRl1fD/",
+        "6c1kdog/ZJYprtFOk0EBo5",
+        "7cV54fXyZAMY0VgbnxIW+J",
+        "85lH6UW21BUpSqWB6hhSO3",
+        "8cRvJfFqFBIaUZLXM6kpQy",
+        "c11x2YL0VKw43NwK/7nlkK",
+        "c89YEUVg5EubzMpI9dqMCH",
+        "ecpdLyjvZBwrvm+cedCcQy",
+        "fca+fB1e9IxoB+olq5rf6A"
+    ],
+    "scenes": {
+        "db://assets/scenes/farm.fire": "4chPhWxq9A3q3TNaMJF0un",
+        "db://assets/scenes/main.fire": "c11x2YL0VKw43NwK/7nlkK"
+    },
+    "redirect": [
+        "13XbqXstFGHZKsoE+YurO9",
+        0,
+        "57YF4TzLNDXpV6BS8FGFpW",
+        0,
+        "5ebVXk9a1JE4TlSwSJD+AI",
+        0,
+        "64UBj/GIFITYaEKrMJoIQ9",
+        0,
+        "6750s+dm9AW4xxXvRl1fD/",
+        0,
+        "6c1kdog/ZJYprtFOk0EBo5",
+        0,
+        "7cV54fXyZAMY0VgbnxIW+J",
+        0,
+        "85lH6UW21BUpSqWB6hhSO3",
+        0,
+        "8cRvJfFqFBIaUZLXM6kpQy",
+        0,
+        "c89YEUVg5EubzMpI9dqMCH",
+        0,
+        "ecpdLyjvZBwrvm+cedCcQy",
+        1,
+        "fca+fB1e9IxoB+olq5rf6A",
+        0
+    ],
+    "deps": [
+        "resources",
+        "internal"
+    ],
+    "packs": {},
+    "name": "main",
+    "importBase": "import",
+    "nativeBase": "native",
+    "debug": true,
+    "isZip": false,
+    "encrypted": false,
+    "versions": {
+        "import": [
+            "4chPhWxq9A3q3TNaMJF0un",
+            "b5e16",
+            "c11x2YL0VKw43NwK/7nlkK",
+            "0a335"
+        ],
+        "native": []
+    }
+}
